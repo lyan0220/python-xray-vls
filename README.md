@@ -1,20 +1,10 @@
 # Pterodactyl面板Python环境
 
-## 方式一：上传requirements.txt和app.py两个文件
-* 启动命令 1
-```
-pip install -r requirements.txt
-```
-* 启动命令 2
+## 部署方式：上传文件 app.py
+
+* 启动命令
 ```
 python app.py
-```
-
-
-## 方式二： 上传requirements.txt、app.py和start.sh全部三个文件
-* 启动命令 1
-```
-bash start.sh
 ```
 
 ## 注意
